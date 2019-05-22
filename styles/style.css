@@ -1,0 +1,30 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans';
+    color: red;
+}
+
+.gris1{
+    width:25%; 
+    height: 50%; 
+    background-color:red; 
+    float: left;
+}
+
+.gris2{
+    width:25%; 
+    height: 50%; 
+    background-color:green; 
+    float: right;
+}
+
+.gris3{
+    width:25%; 
+    height: 50%; 
+    background-color:blue; 
+    float: right;
+}
